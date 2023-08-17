@@ -10,3 +10,8 @@ body{
     align-items: center;
     background: #000;
 }
+
+.caja{
+    width: 80%;
+    background: #ffffff;
+}
